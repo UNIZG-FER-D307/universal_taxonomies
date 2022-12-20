@@ -99,7 +99,7 @@ mapping = {
         'stair',
         'escalator',
         'fountain',
-        'swimming pool',
+        'swimming_pool',
         'wall_brick',
         'wall_other',
         'wall_stone',

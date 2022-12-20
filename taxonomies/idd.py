@@ -108,7 +108,6 @@ mapping = {
     ],
     'sidewalk': [
         'pavement',
-        'floor_stone',
         'pedestrian_area',
     ],
     'curb': [
@@ -238,13 +237,10 @@ mapping = {
     ],
     'non-drivable fallback': [
         'grass',
-        'moss',
         'land',
         'dirt',
-        'mud',
         'field',
         'playing_field',
-        'straw',
         'hill',
         'mountain',
         'ground'

@@ -319,7 +319,6 @@ mapping = {
     'wood_floor'
   ],
   "pavement-merged" : [
-    'floor_stone',
     'pavement'
   ],
   "light" : [

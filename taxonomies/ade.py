@@ -370,7 +370,6 @@ mapping = {
     'pavement',
     'curb_cut',
     'curb',
-    'floor_stone',
     'pedestrian_area'
   ],
   'runway': [
@@ -600,7 +599,6 @@ mapping = {
   ],
   'apparel, wearing apparel, dress, clothes': [
     'clothes',
-    'tie'
   ],
   'plate': [
     'plate'

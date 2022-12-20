@@ -31,7 +31,7 @@ class_to_index = {
    "car_mount"             :  29 ,
    "sky_other"             :  30 ,
    "ground"                :  31 ,
-   "mud"                   :  32 ,
+   "pole_tl"               :  32 ,
    "playing_field"         :  33 ,
    "hill"                  :  34 ,
    "mountain"              :  35 ,
@@ -101,7 +101,7 @@ class_to_index = {
    "pavement"              :  99 ,
    "curb_cut"              :  100,
    "curb"                  :  101,
-   "floor_stone"           :  102,
+   "trash"                 :  102,
    "pedestrian_area"       :  103,
    "runway"                :  104,
    "dirt_track"            :  105,
@@ -258,9 +258,7 @@ class_to_index = {
    "mobilebarrier"         :  256,
    "otherprop"             :  257,
    "otherstructure"        :  258,
-   "trash"                 :  259,
-   "pole_tl"               :  260,
-   "ignore"                :  261,
+   "ignore"                :  259,
     }
 
 

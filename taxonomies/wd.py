@@ -84,7 +84,7 @@ mapping = {
         'ego_vehicle'
     ],
     "sky": [
-        'sky'
+        'sky_other'
     ],
     "ground": [
         'ground'
@@ -94,7 +94,7 @@ mapping = {
         'land',
         'field',
         'hill',
-        'mountain'
+        'mountain',
         'dirt',
         'field',
         'playing_field',
@@ -122,7 +122,11 @@ mapping = {
         'tunnel'
     ],
     "wall": [
-        'wall',
+        'wall_brick',
+        'wall_other',
+        'wall_stone',
+        'wall_tile',
+        'wall_wood',
     ],
     "fence": [
         'fence'

@@ -197,7 +197,6 @@ mapping = {
     ],
   'clothes'   : [
    'clothes',
-   'tie'
     ],
   'bag'   : [
    'handbag',

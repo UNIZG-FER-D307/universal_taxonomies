@@ -360,7 +360,7 @@ mapping = {
         'truck'
     ],
     'object--vehicle--wheeled-slow': [
-        'rickshaw',
+        'autorickshaw',
         'wheeled_slow'
     ],
     'void--car-mount': [

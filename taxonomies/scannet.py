@@ -129,8 +129,7 @@ mapping = {
         'seat',
         'vitrine',
         'cradle',
-        'wardrobe',
-        'furniture_other'
+        'wardrobe'
     ],
     'toilet': [
         'toilet'
@@ -158,7 +157,6 @@ mapping = {
     ],
     'clothes': [
         'clothes',
-        'tie'
     ],
     'bag': [
         'handbag',
