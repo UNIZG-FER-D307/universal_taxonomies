@@ -5,4 +5,5 @@ Universal taxonomy for <a href=http://www.wilddash.cc/accounts/login>ADE20k</a>,
 ## Paper
 
 Conference version:  <a href=https://arxiv.org/abs/2108.11224>Multi-domain semantic segmentation with overlapping labels</a>
+
 Updated version:  <a href=https://arxiv.org/abs/2212.10340>Weakly supervised training of universal visual concepts for multi-domain semantic segmentation</a>
